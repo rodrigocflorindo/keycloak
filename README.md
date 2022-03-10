@@ -1,3 +1,1 @@
 # terraformgft
-# dmps-lab
-# terraformgft
